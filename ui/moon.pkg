@@ -1,0 +1,9 @@
+import {
+  "Mr-Houjie/mbt-diffview" @core,
+  "moonbit-community/rabbita",
+  "moonbit-community/rabbita/html",
+}
+
+pkgtype(kind: "executable")
+
+supported_targets = "js"
