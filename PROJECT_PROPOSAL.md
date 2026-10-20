@@ -49,4 +49,4 @@ mbt-diffview 用 MoonBit 原生实现文本 Diff 查看：行级差异基于官�
 
 仓库：https://github.com/Mr-Houjie/mbt-diffview
 
-`main` 分支包含 11 个有效提交，按「脚手架 → 类型 → 切行 → 词级 → 行级引擎 → 输出 → CLI → 语料 → 真实 fixture → GUI → 文档」分层，无空提交、无重复提交。
+`main` 分支包含 13 个有效提交，按「脚手架 → 类型 → 切行 → 词级 → 行级引擎 → 输出 → CLI → 语料 → 真实 fixture → GUI → 文档」分层，无空提交、无重复提交。
