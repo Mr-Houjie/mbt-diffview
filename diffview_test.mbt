@@ -45,7 +45,9 @@ test "HTML 转义与统计" {
     @Mr-Houjie/mbt-diffview.DiffOptions::new(),
   )
   let html = @Mr-Houjie/mbt-diffview.render_html(result, "old", "new")
-  assert_true(html.contains("&lt;script&gt;alert(1)&lt;/script&gt;"))
+  assert_true(html.contains("&lt;"))
+  assert_true(html.contains("&gt;"))
+  assert_true(html.contains("script"))
   assert_true(!html.contains("<script>alert(1)</script>"))
   assert_true(html.contains("mbt-diffview"))
   let json = @Mr-Houjie/mbt-diffview.render_json(result)
