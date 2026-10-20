@@ -1,0 +1,6 @@
+{
+  "name": "demo",
+  "port": 9090,
+  "debug": true,
+  "timeout": 30
+}

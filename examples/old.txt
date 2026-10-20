@@ -1,0 +1,3 @@
+MoonBit is a modern language for AI and large-scale software.
+It compiles to WebAssembly, JavaScript and native.
+The type system catches mistakes early.

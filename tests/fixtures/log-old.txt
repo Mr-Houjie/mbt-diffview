@@ -1,0 +1,4 @@
+2026-10-20 09:00:01 INFO  server started
+2026-10-20 09:00:02 INFO  listening on 8080
+2026-10-20 09:00:03 WARN  cache miss for /index
+2026-10-20 09:00:04 INFO  request completed in 12ms

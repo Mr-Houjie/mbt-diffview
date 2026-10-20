@@ -1,0 +1,4 @@
+MoonBit 是一门面向 AI 的编程语言。
+它编译到 WebAssembly、JavaScript 和原生平台。
+类型系统可以尽早发现 bug。
+Diff 查看器支持词级高亮。
